@@ -1,7 +1,7 @@
 {
-  "raised": 100.0,
+  "raised": 200.0,
   "goal": 2500,
-  "gifts": 1,
-  "updated": "2026-09-05T18:30:00Z",
-  "source": "manual seed; PayPal poller takes over once keys are in"
+  "gifts": 3,
+  "updated": "2026-09-06T05:05:37Z",
+  "source": "PayPal Transaction Search, completed USD payments since 2026-09-05"
 }
