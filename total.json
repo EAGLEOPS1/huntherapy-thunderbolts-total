@@ -1,7 +1,7 @@
 {
-  "raised": 2500,
+  "raised": 2550,
   "goal": 2500,
-  "gifts": 8,
-  "updated": "2026-09-07T19:05:17Z",
+  "gifts": 9,
+  "updated": "2026-09-07T19:20:17Z",
   "source": "PayPal webhooks (real time) + Transaction Search reconcile since 2026-09-05"
 }
