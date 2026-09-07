@@ -1,7 +1,7 @@
 {
-  "raised": 850.0,
+  "raised": 850,
   "goal": 2500,
   "gifts": 7,
-  "updated": "2026-09-07T16:05:37Z",
-  "source": "PayPal Transaction Search, completed USD payments since 2026-09-05"
+  "updated": "2026-09-07T16:08:04Z",
+  "source": "PayPal webhooks (real time) + Transaction Search reconcile since 2026-09-05"
 }
