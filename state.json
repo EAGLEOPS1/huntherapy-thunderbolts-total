@@ -1,11 +1,9 @@
 {
-  "webhook_raised": 907,
-  "webhook_gifts": 8,
+  "webhook_raised": 850,
+  "webhook_gifts": 7,
   "ts_raised": 850,
   "ts_gifts": 7,
-  "seen": [
-    "420004c4e0dd5086441d93a8ff7ca274"
-  ],
+  "seen": [],
   "seeded": true,
-  "updated": "2026-09-07T16:08:37Z"
+  "updated": "2026-09-07T16:09:00Z"
 }
